@@ -1,5 +1,4 @@
 # Mini_QrCode_tool
-下面是通俗易懂的英文翻译：
 
 ### 1. Overview
 This QR code generator is a desktop application developed using Python. It leverages the PyQt6 library for building the user interface and the qrcode library to generate QR codes. The tool can quickly create QR codes based on text or web links provided by the user and supports saving the generated QR codes as images.
